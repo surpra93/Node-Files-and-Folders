@@ -1,0 +1,15 @@
+{
+  "name": "file-system",
+  "version": "1.0.0",
+  "description": "file-system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "is-image": "^3.0.0"
+  }
+}
